@@ -1,7 +1,7 @@
 # GoChat
-Learn build chat with go &amp; websocket 
+Learn build JWT with go 
 
-ref : https://www.bacancytechnology.com/blog/real-time-chat-application-using-socketio-golang-vuejs
+ref : https://www.bacancytechnology.com/blog/golang-jwt
 
 
 ```shell
